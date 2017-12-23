@@ -31,7 +31,10 @@ show_count: false
 google_analytics:
 gauges_analytics:
 favicon: /favicon.png
-twitter:
+facebook: https://www.facebook.com/RobertGRaleigh
+twitter: https://www.twitter.com/RobertGRaleigh
+linkedin: http://www.linkdin.com/in/robertgraleigh
+slack: http://www.slack.com/RobertGRaleigh
 google_plus:
 fb_admins:
 fb_app_id:
